@@ -4,7 +4,7 @@
       "APPLY": "Zatwierdź",
       "COPY": "Kopiuj",
       "CREATE": "Utwórz",
-      "DELETE": "Usuń",
+      "DELETE": "Skasuj",
       "DUPLICATE": "Duplikuj\n",
       "EDIT": "Edytuj",
       "HIDE": "Ukryj",
@@ -42,47 +42,47 @@
   "DOCUMENT": {
     "DIALOGS": {
       "DELETE_ALSO_UNSHARE": "Czy chcesz zrezygnować z udostępniania również tego dokumentu?",
-      "DELETE_CONFIRM_DIALOG": "Czy jesteś pewny, że chcesz skasować ten dokument?",
-      "DELETE_UNSHARE_ERROR": "W trakcie rezygnacji z udostępniania wystąpił problem. Spróbuj zrezygnować z udostępnienia samodzielnie.",
-      "DELETE_UNSHARE_OFFLINE_ERROR": "Jesteś offline. Proszę, zrezygnuj z udostępnienia dokumentu samodzielnie, kiedy jesteś z powrotem online."
+      "DELETE_CONFIRM_DIALOG": "Czy na pewno chcesz skasować ten dokument?",
+      "DELETE_UNSHARE_ERROR": "W trakcie rezygnacji z udostępniania wystąpił błąd. Spróbuj zrezygnować z udostępnienia ręcznie.",
+      "DELETE_UNSHARE_OFFLINE_ERROR": "Jesteś offline. Zrezygnuj z udostępnienia dokumentu ręcznie, kiedy jesteś z powrotem online."
     },
     "MENU": {
-      "ADD_NESTED_DOCUMENT": "Dodaj Zagnieżdżony Dokument",
+      "ADD_NESTED_DOCUMENT": "Dodaj zagnieżdżony dokument",
       "CHANGE_DOCUMENT_ICON": "Zmień ikonę dokumentu",
-      "CHANGE_DOCUMENT_STATUS": "Zmień Status Dokumentu",
+      "CHANGE_DOCUMENT_STATUS": "Zmień status dokumentu",
       "CHANGE_FOLDER_ICON": "Zmień ikonę folderu",
       "CUSTOMIZE_SPACED_REPETITION": "Spersonalizuj Spaced Repetition",
       "DELETE": "Skasuj",
       "EDIT_MODE": {
-        "READ": "Tryb Tylko Do Odczytu",
-        "WRITE": "Tryb Edycji"
+        "READ": "Tryb tylko do odczytu",
+        "WRITE": "Tryb edycji"
       },
       "EXPORT": "Eksportuj",
-      "FIND_OR_FILTER": "Znajdź lub Filtruj",
+      "FIND_OR_FILTER": "Znajdź lub filtruj",
       "FIND_TEXT_REFERENCES": {
         "DEPRECATION_WARNING": "Ta opcja jest przestarzała i zaleca się użycie alternatywnej metody. Naciśnij <keycode />, a następnie szukaj wzmianek tekstowych.",
-        "LABEL": "Znajdź Wzmianki Tekstowe"
+        "LABEL": "Znajdź wzmianki tekstowe"
       },
-      "MARK_AS_DOCUMENT": "Oznacz jako Dokument",
+      "MARK_AS_DOCUMENT": "Oznacz jako dokument",
       "MOVE": "Przenieś",
       "MULTI_SELECTION_FOLDER": "Wybierz wiele folderów/dokumentów",
       "MULTI_SELECTION_MODE": "Wybierz wiele Remów",
-      "OPEN_IN_ANOTHER_PANE": "Otwórz w Innym Okienku",
-      "PIN_TO_SIDEBAR": "Przypnij do Paska Bocznego",
+      "OPEN_IN_ANOTHER_PANE": "Otwórz w innym okienku",
+      "PIN_TO_SIDEBAR": "Przypnij do paska bocznego",
       "PRINT": "Drukuj",
-      "RENAME": "Zmień Nazwę",
-      "SHOW_STUDY_BUTTON": "Pokaż Przycisk Nauki",
-      "STATS": "Satystyki",
+      "RENAME": "Zmień nazwę",
+      "SHOW_STUDY_BUTTON": "Pokaż przycisk nauki",
+      "STATS": "Statystyki",
       "UNDO": "Cofnij",
-      "UNPIN_FROM_SIDEBAR": "Usuń Przypięcie z Paska Bocznego",
-      "UNSHARE_DOCUMENT": "Zrezygnuj z Udostępniania Dokumentu",
-      "VIEW_GRAPH": "Zobacz Graf",
-      "VIEW_TRASH": "Zobacz Kosz"
+      "UNPIN_FROM_SIDEBAR": "Odepnij od paska bocznego",
+      "UNSHARE_DOCUMENT": "Zrezygnuj z udostępniania dokumentu",
+      "VIEW_GRAPH": "Wyświetl wykres lokalny",
+      "VIEW_TRASH": "Wyświetl kosz"
     },
     "PUBLISH_STATUS": {
-      "DRAFT": "Szkic",
-      "FINISHED": "Ukończony",
-      "PINNED": "Przypięty"
+      "DRAFT": "Wersja robocza",
+      "FINISHED": "Ukończono",
+      "PINNED": "Przypięto"
     }
   },
   "FILE_UPLOADING": {
@@ -93,12 +93,12 @@
     "NOT_YET_UPLOADED": "Ten plik nie został jeszcze przesłany.",
     "SNIPPING": {
       "NON_PDF": "Wypróbuj inne narzędzie do wycinania/wklejania lub skontaktuj się z pomocą techniczną.",
-      "PDF": "Proszę, skontaktuj się z pomocą techniczną."
+      "PDF": "Skontaktuj się z pomocą techniczną."
     }
   },
   "LANGUAGE": {
     "LANGUAGE_WORD": "Język",
-    "TRANSLATION_INFO_SETTINGS": "Tłumaczenie jest nadal w toku; zobaczysz mieszankę języka angielskiego i wybranego języka.<br> Możesz pomóc nam w tłumaczeniu, czytając<guideLink>instrukcję</guideLink>, a następnie korzystając z naszego<editorLink> edytora internetowego </editorLink>.",
+    "TRANSLATION_INFO_SETTINGS": "Tłumaczenie jest nadal w toku; zobaczysz mieszankę języka angielskiego i wybranego języka.<br> Możesz pomóc nam w tłumaczeniu, czytając<guideLink>instrukcję</guideLink>, a następnie korzystając z naszego <editorLink>edytora internetowego</editorLink>.",
     "TRANSLATION_IN_PROGRESS": "Tłumaczenie w toku"
   },
   "NOTIFICATIONS": {
@@ -110,22 +110,22 @@
     "DOCUMENT_ADDED_TO_GROUP": {
       "BODY": "dodano do"
     },
-    "EMPTY_STATE_MESSAGE": "Wszystko gotowe! Będziesz otrzymywać powiadomienia, gdy ktoś wejdzie w interakcję z treścią udostępnioną na Twoim koncie<profileLink> profil</profileLink>",
+    "EMPTY_STATE_MESSAGE": "Wszystko gotowe! Będziesz otrzymywać powiadomienia, gdy ktoś wejdzie w interakcję z treścią udostępnioną na Twoim profilu <profileLink> profil</profileLink>",
     "EMPTY_STATE_TITLE": "Nie masz żadnych nowych powiadomień",
     "GROUP_DEFAULT": "Twoja grupa",
     "IMPORT": {
       "BODY": "Ktoś zaimportował Twój dokument"
     },
     "INVITE": {
-      "ACCEPT": "Przyjmij Zaproszenie",
+      "ACCEPT": "Przyjmij zaproszenie",
       "BODY": "zaprosił/-a Cię do dołączenia",
       "REJECT": "Odrzuć"
     },
     "NEW_COMMENT": {
       "BODY": "skomentował/-a na",
-      "BODY_ARTICLE": "skomentował/-a na Twój dokument",
+      "BODY_ARTICLE": "skomentował/-a Twój dokument",
       "BODY_COMMENT": "odpowiedział/-a na Twój komentarz",
-      "BODY_GROUP": "wysłał/-a wiadomość do Twojej grupy"
+      "BODY_GROUP": "wysłał/-a wiadomość w Twojej grupie"
     },
     "NEW_FOLLOWER": {
       "BODY": "zaobserwował/-a Cię"
@@ -133,7 +133,7 @@
     "NEW_LIKE": {
       "BODY": "polubił/-a"
     },
-    "POPUP_TITLE": "Nowe Powiadomienia"
+    "POPUP_TITLE": "Ostatnie powiadomienia"
   },
   "ONBOARDING": {
     "SIDEBAR": {
@@ -154,13 +154,13 @@
           "TITLE": "Utwórz folder"
         },
         "PAGE_1": {
-          "TITLE": "Dodaj punktor"
+          "TITLE": "Dodaj punkt"
         },
         "PAGE_2": {
           "TITLE": "Utwórz fiszkę"
         },
         "PAGE_3": {
-          "TITLE": "Porządkuj notatki urzywając Tab"
+          "TITLE": "Porządkuj notatki, używając klawisza Tab"
         }
       }
     }
@@ -170,47 +170,47 @@
       "SORT": {
         "ASCENDING": "A -> Z",
         "BY_CREATION_TIME": "Według czasu utworzenia",
-        "BY_MODIFICATION": "Według modyfikacji",
+        "BY_MODIFICATION": "Według czasu modyfikacji",
         "BY_TITLE": "Według tytułu",
         "DESCENDING": "Z -> A",
         "OLDEST_FIRST": "Najpierw najstarsze",
-        "RECENTLY_MODIFIED": "Niedawno zmodyfikowane",
+        "RECENTLY_MODIFIED": "Najpierw najnowsze",
         "OLDEST_CREATION_FIRST": "Najpierw najdawniej utworzone",
         "RECENTLY_CREATED": "Niedawno utworzone"
       },
-      "TITLE": "Wszystkie Notatki"
+      "TITLE": "Wszystkie notatki"
     }
   },
   "PDF": {
     "ADD_ANNOTATIONS": {
       "AI_DROPDOWN": {
-        "BASIC_CARDS": "Podstawowe Fiszki",
+        "BASIC_CARDS": "Podstawowe fiszki",
         "BASIC_CARDS_TOOLTIP": "Stwórz podstawowe fiszki pytań i odpowiedzi z zaznaczonego tekstu.",
-        "CLOZE_CARDS": "Fiszki z Tekstem do Uzupełnienia",
-        "CLOZE_CARDS_TOOLTIP": "Stwórz fiszki z tekstem do uzupełnienia korzystając z obecnie zaznaczonego tekstu",
-        "CONCEPT_CARDS": "Fiszki Pojęć",
-        "CONCEPT_CARDS_TOOLTIP": "Stwórz fiszki pojęć-deskryptorów z zaznaczonego tekstu.",
+        "CLOZE_CARDS": "Fiszki z tekstem do uzupełnienia",
+        "CLOZE_CARDS_TOOLTIP": "Stwórz fiszki z tekstem do uzupełnienia, korzystając z zaznaczonego tekstu.",
+        "CONCEPT_CARDS": "Fiszki pojęć",
+        "CONCEPT_CARDS_TOOLTIP": "Stwórz fiszki pojęć i deskryptorów z zaznaczonego tekstu.",
         "GENERATE_SECTION": "GENERUJ"
       },
-      "CLOZE_BTN_TOOLTIP": "Fiszka z Tekstem do Uzupełnienia",
-      "COPY_IMAGE": "Skopiuj Zdjęcie",
+      "CLOZE_BTN_TOOLTIP": "Fiszka z tekstem do uzupełnienia",
+      "COPY_IMAGE": "Kopiuj obraz",
       "COPY_IMAGE_AS_TEXT": "Kopiuj obraz jako tekst za pomocą AI",
-      "COPY_TEXT": "Skopiuj jako Zwykły Tekst",
-      "HIGHLIGHT": "Wyróżnij",
-      "MAKE_IMG_OCC_BTN_TOOLTIP": "Stwórz Fiszki Zasłoniętych Zdjęć",
+      "COPY_TEXT": "Kopiuj jako zwykły tekst",
+      "HIGHLIGHT": "Zaznacz",
+      "MAKE_IMG_OCC_BTN_TOOLTIP": "Stwórz fiszki zasłoniętych obrazów",
       "NOTE_BTN_TOOLTIP": "Notatka",
-      "NO_TEXT_IN_PDF_WARN": "Ten plik nie zawiera warstwy tekstowej, ale nadal możesz używać wyróżnień obszarów do dodawania adnotacji."
+      "NO_TEXT_IN_PDF_WARN": "Ten plik nie zawiera warstwy tekstowej, ale nadal można używać zaznaczeń obszarów do dodawania adnotacji."
     },
     "EDIT_ANNOTATIONS": {
-      "ADVANCED_LINKING_OPTIONS": "Zaawansowane Opcje Łączenia",
-      "DELETE_WARNING": "To wyróżnienie ma {{notesCount, number}} {{ notesWord }}. Czy na pewno chcesz je usunąć?",
-      "TURN_INTO_CONCEPT": "Zmień w Pojęcie",
-      "VIEW_REFERENCES": "Sprawdź"
+      "ADVANCED_LINKING_OPTIONS": "Zaawansowane opcje łączenia",
+      "DELETE_WARNING": "To zaznaczenie ma {{notesCount, number}} {{ notesWord }}. Czy na pewno chcesz je usunąć?",
+      "TURN_INTO_CONCEPT": "Zmień w pojęcie",
+      "VIEW_REFERENCES": "Sprawdź odniesienia"
     },
     "HEADER": {
-      "AREA_HIGHLIGHT_TOOLTIP": "Wyróżnij Obszar ({{keyName}} + Przeciągnij)",
-      "NUMBER_OF_PAGES_TOOLTIP": "Liczba stron",
-      "TOGGLE_DEFAULT_DOCUMENT_TOOLTIP": "Włącz Dokument Domyślny"
+      "AREA_HIGHLIGHT_TOOLTIP": "Zaznacz obszar ({{keyName}} + przeciągnij)",
+      "NUMBER_OF_PAGES_TOOLTIP": "liczba stron",
+      "TOGGLE_DEFAULT_DOCUMENT_TOOLTIP": "Włącz dokument domyślny"
     },
     "PDF_OPTIONS": {
       "CHANGE_THEME": "Zmień motyw",
