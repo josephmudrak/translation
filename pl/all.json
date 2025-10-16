@@ -710,6 +710,7 @@
       "EMBED_LINK": "Umieść link",
       "INVALID_URL": "Nieprawidłowy URL",
       "LABEL": "Link",
+      "LABEL_MOBILE": "Linki",
       "LINK": "Link",
       "LINK_WITH_COUNT_one": "{{count, number}} Link",
       "LINK_WITH_COUNT_other": "{{count, number}} Link/-i",
@@ -718,9 +719,12 @@
     },
     "UPLOAD_SOURCE": {
       "EMPTY": "Upuść pliki PDF, dokumenty Word, prezentacje PPT i <moreLink>inne</moreLink> tutaj!",
+      "FILE_TYPES": "Obsługuje formaty PDF, Word, PPT, XLSX, ePub oraz <moreLink>więcej formatów</moreLink>",
+      "PASTE_URL": "Wklej URL YouTube, PDF lub internetowy",
       "IMPORT_INSTEAD": "RemNote nie akceptuje przesyłania plików tego typu. Jednakże być może uda nam się zaimportować notatki lub fiszki z tego pliku! Spróbuj wybrać opcję „Importuj” z menu konta w lewym górnym rogu.",
       "INVALID": "Przepraszamy, RemNote nie akceptuje przesyłania plików tego typu.",
       "LABEL": "Prześlij",
+      "LABEL_MOBILE": "Pliki",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
       "PDF_WITH_COUNT_other": "{{count, number}} PDF-y",
@@ -729,10 +733,13 @@
       "UPLOAD": "Załącz",
       "UPLOADING": "Przesyłanie..."
     },
+    "RECORD_SOURCE": {
+      "LABEL": "Nagraj"
+    },
     "WIKIMEDIA_COMMONS": {
+      "LABEL": "Wyszukiwanie obrazów",
       "EMPTY": "Upuść pliki PDF, dokumenty Word, prezentacje PPT i <moreLink>inne</moreLink> tutaj!",
       "INVALID": "Nieprawidłowy format pliku!",
-      "LABEL": "Wyszukiwanie obrazów",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
       "PDF_WITH_COUNT_other": "{{count, number}} PDF-y",
