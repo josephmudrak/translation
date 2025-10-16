@@ -2,9 +2,9 @@
   "COMMON": {
     "ACTIONS": {
       "APPLY": "Zatwierdź",
-      "COPY": "Skopiuj",
+      "COPY": "Kopiuj",
       "CREATE": "Utwórz",
-      "DELETE": "Skasuj",
+      "DELETE": "Usuń",
       "DUPLICATE": "Duplikuj\n",
       "EDIT": "Edytuj",
       "HIDE": "Ukryj",
