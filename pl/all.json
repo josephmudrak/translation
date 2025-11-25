@@ -4,7 +4,7 @@
       "APPLY": "Zatwierdź",
       "COPY": "Kopiuj",
       "CREATE": "Utwórz",
-      "DELETE": "Skasuj",
+      "DELETE": "Usuń",
       "DUPLICATE": "Duplikuj\n",
       "EDIT": "Edytuj",
       "HIDE": "Ukryj",
@@ -29,7 +29,7 @@
         "SHARING": {
           "NO_CONTENT": {
             "SRC": "Dokument, który próbujesz udostępnić, wygląda na nieco pusty. Dodaj co najmniej {{minimum}} Remów, a następnie spróbuj ponownie.",
-            "SUBDOCUMENT": "Jeden z Twoich dokumentów podrzędnych wygląda na trochę pusty. Nie zostanie opublikowany, dopóki nie będzie zawierał {{minimum}} Remów."
+            "SUBDOCUMENT": "Jeden z Twoich dokumentów podrzędnych wygląda na nieco pusty. Nie zostanie opublikowany, dopóki nie będzie zawierał {{minimum}} Remów."
           },
           "NO_TITLE": {
             "SRC": "Dokument, który próbujesz udostępnić, nie ma tytułu. Musisz dodać go przed jego opublikowaniem.",
@@ -42,7 +42,7 @@
   "DOCUMENT": {
     "DIALOGS": {
       "DELETE_ALSO_UNSHARE": "Czy chcesz zrezygnować z udostępniania również tego dokumentu?",
-      "DELETE_CONFIRM_DIALOG": "Czy na pewno chcesz skasować ten dokument?",
+      "DELETE_CONFIRM_DIALOG": "Czy na pewno chcesz usunąć ten dokument?",
       "DELETE_UNSHARE_ERROR": "W trakcie rezygnacji z udostępniania wystąpił błąd. Spróbuj zrezygnować z udostępnienia ręcznie.",
       "DELETE_UNSHARE_OFFLINE_ERROR": "Jesteś offline. Zrezygnuj z udostępnienia dokumentu ręcznie, kiedy jesteś z powrotem online."
     },
@@ -51,8 +51,8 @@
       "CHANGE_DOCUMENT_ICON": "Zmień ikonę dokumentu",
       "CHANGE_DOCUMENT_STATUS": "Zmień status dokumentu",
       "CHANGE_FOLDER_ICON": "Zmień ikonę folderu",
-      "CUSTOMIZE_SPACED_REPETITION": "Spersonalizuj Spaced Repetition",
-      "DELETE": "Skasuj",
+      "CUSTOMIZE_SPACED_REPETITION": "Dostosuj Spaced Repetition",
+      "DELETE": "Usuń",
       "EDIT_MODE": {
         "READ": "Tryb tylko do odczytu",
         "WRITE": "Tryb edycji"
@@ -110,7 +110,7 @@
     "DOCUMENT_ADDED_TO_GROUP": {
       "BODY": "dodano do"
     },
-    "EMPTY_STATE_MESSAGE": "Wszystko gotowe! Będziesz otrzymywać powiadomienia, gdy ktoś wejdzie w interakcję z treścią udostępnioną na Twoim profilu <profileLink> profil</profileLink>",
+    "EMPTY_STATE_MESSAGE": "Wszystko gotowe! Będziesz otrzymywać powiadomienia, gdy ktoś wejdzie w interakcję z treścią udostępnioną na Twoim <profileLink>profilu</profileLink>",
     "EMPTY_STATE_TITLE": "Nie masz żadnych nowych powiadomień",
     "GROUP_DEFAULT": "Twoja grupa",
     "IMPORT": {
