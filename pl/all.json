@@ -41,8 +41,8 @@
   },
   "DOCUMENT": {
     "DIALOGS": {
-      "DELETE_ALSO_UNSHARE": "Czy chcesz zrezygnować z udostępniania również tego dokumentu?",
-      "DELETE_CONFIRM_DIALOG": "Czy na pewno chcesz usunąć ten dokument?",
+      "DELETE_ALSO_UNSHARE": "Zrezygnować z udostępniania również tego dokumentu?",
+      "DELETE_CONFIRM_DIALOG": "Czy na pewno usunąć ten dokument?",
       "DELETE_UNSHARE_ERROR": "W trakcie rezygnacji z udostępniania wystąpił błąd. Spróbuj zrezygnować z udostępnienia ręcznie.",
       "DELETE_UNSHARE_OFFLINE_ERROR": "Jesteś offline. Zrezygnuj z udostępnienia dokumentu ręcznie, kiedy jesteś z powrotem online."
     },
@@ -60,8 +60,8 @@
       "EXPORT": "Eksportuj",
       "FIND_OR_FILTER": "Znajdź lub filtruj",
       "FIND_TEXT_REFERENCES": {
-        "DEPRECATION_WARNING": "Ta opcja jest przestarzała i zaleca się użycie alternatywnej metody. Naciśnij <keycode />, a następnie szukaj wzmianek tekstowych.",
-        "LABEL": "Znajdź wzmianki tekstowe"
+        "DEPRECATION_WARNING": "Ta opcja jest przestarzała i zaleca się użycie alternatywnej metody. Naciśnij <keycode />, a następnie szukaj odniesień tekstowych.",
+        "LABEL": "Znajdź odniesienia tekstowe"
       },
       "MARK_AS_DOCUMENT": "Oznacz jako dokument",
       "MOVE": "Przenieś",
@@ -98,7 +98,7 @@
   },
   "LANGUAGE": {
     "LANGUAGE_WORD": "Język",
-    "TRANSLATION_INFO_SETTINGS": "Tłumaczenie jest nadal w toku; zobaczysz mieszankę języka angielskiego i wybranego języka.<br> Możesz pomóc nam w tłumaczeniu, czytając<guideLink>instrukcję</guideLink>, a następnie korzystając z naszego <editorLink>edytora internetowego</editorLink>.",
+    "TRANSLATION_INFO_SETTINGS": "Tłumaczenie jest nadal w toku; zobaczysz mieszankę języka angielskiego i wybranego języka.<br> Możesz pomóc nam w tłumaczeniu, czytając <guideLink>samouczek</guideLink>, a następnie korzystając z naszego <editorLink>edytora internetowego</editorLink>.",
     "TRANSLATION_IN_PROGRESS": "Tłumaczenie w toku"
   },
   "NOTIFICATIONS": {
